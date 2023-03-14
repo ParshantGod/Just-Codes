@@ -7,3 +7,6 @@ crawler.py is the working code the crawls the website and collects whole html. A
 result.json includes the data collected by crawler.py 
 
 In crawler.py selenium is used to scrawl the website and store the data in result.json. 
+
+
+## No tuitorials followed while performing this task. 
